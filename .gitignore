@@ -1,0 +1,5 @@
+/target
+/log
+.vscode
+.DS_Store
+.idea
